@@ -25,4 +25,4 @@ print('c= ', c, type(c))
 d = int(c)                           # строку в целые числа
 print('d= ',d, type(d))
 
-
+print(1213)
